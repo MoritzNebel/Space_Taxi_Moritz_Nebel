@@ -1,0 +1,465 @@
+Website: https://www.microsoft.com/
+Terms of Use for: Software: Microsoft Visual Studio Ultimate 2012 Version 11.0.50727.1 RTMREL
+
+Verwendung von urheberrechtlich geschützten Inhalten von Microsoft
+Aktualisiert: 10. April 2015
+
+Die Produkte und Dienste von Microsoft — einschließlich Bildern, Texte und Software-Downloads ("Inhalte") – gehören entweder der Microsoft Corporation oder Dritten, die Microsoft die Erlaubnis zur Nutzung des jeweiligen Inhalts erteilt haben. Microsoft kann Ihnen keine Erlaubnis für Inhalte erteilen, die Dritten gehören. Sie dürfen Inhalte nur kopieren, ändern, vertreiben, anzeigen, lizenzieren oder verkaufen, wenn Ihnen hierfür in dem Endbenutzer-Lizenzvertrag (End User License Agreement oder EULA) oder in den Lizenzbestimmungen, die zu dem Inhalt gehören oder in den nachfolgenden Richtlinien vorgesehen sind, ausdrücklich eine Erlaubnis erteilt wurde. Für weitere Informationen wenden Sie sich bitte an einen auf Urheberrecht spezialisierten Anwalt.
+
+Voraussetzungen für die zulässige Nutzung
+Sie müssen für die Erlaubnis, die für eine nach diesen Richtlinien zulässige Verwendung erteilt werden soll, die folgenden vier Voraussetzungen erfüllen:
+
+Nutzung von Produktnamen
+Wenn Ihre Verwendung eine Bezugnahme auf ein Microsoft-Produkt enthält, müssen Sie den vollständigen Namen des Produkts angeben. Wenn es um Microsoft-Marken geht, beachten Sie bitte unsere Trademark-Seite.
+
+Genehmigung durch Microsoft
+Sie müssen folgenden Hinweis aufnehmen: “Nutzung mit Genehmigung von Microsoft.”
+
+Keine anstößige Nutzung
+Ihre Verwendung darf nicht obszön oder pornographisch sein, und Sie dürfen Microsoft oder eines ihrer Produkte oder eine andere Person oder Gesellschaft nicht herabsetzen, diffamieren oder verleumden.
+
+Verlinkung
+Sie dürfen einen Link zu Microsoft-Inhalten setzen, indem Sie entweder einen unformatierten Text-Link mit Worten wie beispielsweise “Hier geht’s zu Microsoft.com“ verwenden oder indem Sie an dem jeweiligen Link-Logo-Programm teilnehmen. Andere Bilder dürfen nicht als Link zu einer Microsoft-Seite verwendet werden.
+Auf dieser Seite
+Werbung und Anzeigen
+Box Shots (Abbildungen von Packungen)
+Clip Art und Sample Art
+Produktspenden
+Fonts (Schriftarten)
+Spiele als Inhalte
+Maps (Karten)
+Microsoft-Icons
+Microsoft Logos
+Microsoft Sounds und Logos
+Presse
+Weitergabe von Software
+Abdruck von Buchauszügen, Artikeln und Bildern
+Downgrade eines Microsoft-Einzelhandelprodukts
+Schulberichte und Schulprojekte
+Screenshots (Bildschirmkopien)
+Tabellen und Datenbanken
+Verwendung des Namens und/oder eines Bilds von Bill Gates
+Werbung und Anzeigen
+Falls Sie irgendwelche Fragen hinsichtlich der Verwendung und der Lizenzierung von urheberrechtlich geschütztem Material von Microsoft haben, beispielsweise in Bezug auf Microsoft-Anzeigen, -Fotographien, -Videos oder andere Microsoft-Materialien, senden Sie bitte eine schriftliche detaillierte Anfrage an:
+
+Microsoft Corporation
+One Microsoft Way
+Redmond, WA 98052-6399
+USA
+
+Bitte stellen Sie sicher, dass jegliche Kopien oder Texte, die zu den Microsoft-Materialien gehören, beigefügt sind.
+In Ihrer Werbung gestattet Microsoft Ihnen nicht:
+
+ohne die vorherige Genehmigung von Microsoft Inhalte zu verwenden, die Microsoft gehören, einschließlich, aber nicht beschränkt auf Icons, Produktsounds, Produktanimationen, Logos und Bilder.
+Ein Sponsoring, eine geschäftliche Verbindung oder Billigung von/mit Microsoft zu implizieren.
+Zum Seitenanfang
+Box Shots (Abbildung von Packungen)
+Box Shots von Microsoft-Produkten sind vollständige Abbildungen der Microsoft-Produktverpackungen. Sie dürfen Microsoft Box Shots nicht auf Softwareverpackungen Dritter verwenden. Sie können Box Shots in der Werbung, in Dokumentationen (einschließlich Ausbildungsbroschüren), in Anleitungen, in Videos oder auf Webseiten verwenden, vorausgesetzt, Sie erfüllen zusätzlich zu den obigen Voraussetzungen auch die folgenden:
+
+Sie dürfen den Box Shot nicht verändern mit Ausnahme einer Änderung seiner Gesamtgröße.
+Sie dürfen keine Bilder, die in dem Box Shot enthalten sind (z.B. Graphiken, Illustrationen oder Ausstattung) unabhängig von dem gesamten Box Shot verwenden.
+Sie müssen Ihren Firmennamen und Ihr Firmenlogo, Ihr Produkt und/oder Ihre Graphiken wesentlich größer oder hervorstechender als den Box Shot präsentieren.
+Zum Seitenanfang
+Clip Art und Medienbeispiele
+Clip Art: Die Nutzung von Clip Art und anderen Medieninhalten auf Office Online oder in Microsoft-Produkten unterliegt dem Microsoft Servicevertrag und dem Endnutzerlizenzvertrag (EULA) des Produktes aus dem die Medieninhalte stammen. Wenn sich die Nutzung im Rahmen dieser Bestimmungen hält, ist keine weitere Erlaubnis von Microsoft oder Dritten notwendig. Endnutzer-Lizenzbestimmungen der Microsoft-Produkte nachschlagen.
+
+Medienbeispiele: Medienbeispiele sind unter anderem Bilder, Musik und andere Inhalte, die üblicherweise im „Beispiele“-Ordner des Microsoft-Betriebssystems abgelegt sind. Sie sind nicht berechtigt, die Medienbeispiele und Material, das durch deren Nutzung entstanden ist, zu kommerziellen Zwecken zu verkaufen, zu vermieten oder zu verbreiten.
+
+Zum Seitenanfang
+Produktspenden
+Wenn Sie zu einer Non-Profit-Organisation gehören und von Microsoft eine Spende von Software oder Softwarelizenzen für Ihre Organisation erhalten möchten, gehen Sie bitte zu Microsoft Community Affairs.
+
+Zum Seitenanfang
+Fonts (Schriftarten)
+Windows enthält eine große Zahl vorinstallierter Schriftarten. Office und andere Microsoft-Anwendungen installieren zusätzlich weitere Schriftarten. Office und Windows beinhalten einen Abschnitt zu Schriftarten im jeweiligen Endnutzerlizenzvertrag, der beschreibt, welche Nutzung der dem Produkt beigefügten Schriftarten zulässig ist. Generell dürfen die den Microsoft-Produkten beigefügten Schriftarten nicht verändert, kopiert oder weitervertrieben werden. Viele der den Microsoft-Produkten beigefügten Schriftarten können auch unmittelbar von Ersteller bezogen werden. Ein Blick in die Marken- und Urheberrechtshinweise in den Schriftartendateien gibt Aufschluss über Kontakte für Lizenzen für zusätzliche Endnutzer, für ISV oder OEMs. Einige der Schriftarten, deren Marken- und Urheberrechtshinweise Microsoft als Ersteller der Fonts ausweisen, können von Monotype Imaging lizensiert werden. Informationen zu Lizenzen zu Microsoft-Schriftarten sind auf der Microsoft Typography verfügbar.
+
+Zum Seitenanfang
+Spiele als Inhalte
+Bei Fragen hinsichtlich der Verwendung von Inhalten in Verbindung mit der Xbox und den Spielen Games for Windows, besuchen Sie bitte die Seite Verwendungsregelungen für Spielinhalte. Weitere Informationen zur Verwendung von Xbox-Inhalten finden Sie in den Xbox.com FAQs für Entwickler.
+
+Zum Seitenanfang
+Maps (Karten)
+Informationen zu den Lizenzmöglichkeiten und Preisoptionen für die kommerzielle Verwendung von Karten finden Sie unter Bing Maps.
+
+Zum Seitenanfang
+Microsoft-Icons
+Icons von Microsoft-Produkten sind die fingernagelgroßen Bildchen, die angeben, dass ein Microsoft-Produkt auf Ihrem Betriebssystem installiert wurde. Icons dürfen nicht in Werbung, in Büchern oder in anderen gedruckten Materialien, auf Kleidung oder auf anderen verkaufsfördernden Gegenständen, online oder im Internet, in Softwareanwendungen, in Fernsehprogrammen, in Werbungen, in Filmen oder Videos verwendet werden.
+
+Sie sind berechtigt, Icons von Microsoft-Produkten in Schulungshandbüchern oder -dokumentation zu einem Microsoft-Produkt zu verwenden. Die Verwendung des Icons muss in engem Zusammenhang mit der Funktion des Icons innerhalb der Microsoft-Software stehen. Das Icon darf nicht als graphisches Element oder als Designelement verwendet werden. Icons dürfen nicht modifiziert oder geändert werden und müssen das Erscheinungsbild haben, das sie innerhalb der Microsoft-Software haben würden.
+
+Microsoft macht bestimmte Icons für Entwickler verfügbar (weitere Informationen zum Erwerb von Entwicklerprodukten finden Sie unter MSDN - Developer Netzwerk und Produkte.) Wenn Sie ein Microsoft-Entwicklungstool lizenziert haben, sehen Sie sich den Abschnitt über weiter vertreibbare Dateien in dem EULA an, um herauszufinden, welche Microsoft-Properties von Lizenznehmern weiter vertrieben werden dürfen.
+
+Zum Seitenanfang
+Microsoft Logos
+Die Microsoft Logos, wie auch unsere bekannten Produktnamen wie Windows, Microsoft Office und Xbox, gehören zu den bekanntesten, vertrauenswürdigsten und wertvollsten Marken der Welt. Microsoft Logos dürfen nur in Übereinstimmung mit einem Microsoft Logo Programm genutzt werden. Eine andere Nutzung ist nicht zulässig.
+
+Zum Seitenanfang
+Microsoft Sounds
+Microsoft gestattet keinen separaten Vertrieb von Audio- oder AVI-Dateien — dies sind Dateien mit den Endungen (.wav), (.mid) oder (.avi).
+
+Zum Seitenanfang
+Presse
+Für Informationen zur Verwendung von Microsoft-Bildern in Artikeln oder anderen Nachrichten, besuchen Sie bitte die Microsoft News Center Image Gallery. Sie können jedes der Bilder, das Sie auf der News Center Website finden, verwenden, solange Sie die Richtlinien auf der News Center Seite einhalten.
+
+Zum Seitenanfang
+Weitergabe von Software
+Wenn Ihre Lizenzbestimmungen keine Weitergaberechte für eine bestimmte Softwaredatei gewähren und Sie Hilfe mit Ihrer Software benötigen, besuchen Sie bitte die Microsoft Hilfe und Support-Seite. Für Software-Downloads gestattet Microsoft keine Weitergabe, es sei denn, dies wird ausdrücklich in den beiliegenden Lizenzbestimmungen oder dem Endbenutzer-Lizenzvertrag (EULA) gestattet. Sie können sich von Ihrem Produkt oder Ihrer Website aus mit der Download-Seite verlinken, aber nicht direkt mit dem Download. Wenn Sie technische Schwierigkeiten haben, besuchen Sie bitte das Produkt-Supportcenter und wählen Sie das jeweilige Produkt aus. Wenn der Kunde keinen Zugang zum Internet hat, kann Microsoft eine CD bereitstellen; bitte rufen Sie die Nummer +1 (425) 882-8080 und fragen Sie nach einem Mitarbeiter im Bereich Product Support Services.
+
+Für den Windows Internet Explorer (oder eine seiner Komponenten) lesen Sie bitte die Informationen in Bezug auf Nutzungs- und Weitervertriebsrechte auf der Internet Explorer Homepage oder der Internet Explorer Administration Kit (IEAK) Homepage. Das IEAK ermöglicht eine ganz einfache Installation des Internet Explorers. Wenn Sie Fragen bezüglich des IEAK haben, senden Sie eine E-Mail an ieak@microsoft.com.
+
+Zum Seitenanfang
+Abdruck von Buchauszügen, Artikeln und Bildern
+Microsoft ist nicht Inhaberin der Rechte an sämtlichen Artikeln und Bilder, die auf ihren Seiten erscheinen. Um den Inhaber der Rechte an einem Bild zu ermitteln, bewegen Sie bitte Ihren Pointer über das Bild und der Name des Urheberrechtsinhabers wird angezeigt. Um den Inhaber der Rechte an einem Artikel zu ermitteln, schauen Sie nach dem Autor oder der Gesellschaft, der/die die Rechte hält, am Anfang des Artikels.
+
+Jeder, auch ein Unternehmen, kann zu Informationszwecken auf einen Artikel auf Microsoft-Webseiten verlinken oder darauf verweisen, vorausgesetzt, das Material ist kostenlos verfügbar, es wird nicht zur Veröffentlichung oder zum Verkauf außerhalb Ihres Unternehmens verwendet und der Pointer bringt den Nutzer zu der Microsoft-Seite, von der das Material stammt.
+
+Wenn Sie Geschichten oder Bilder, die Sie auf msnbc.com gefunden haben, verwenden oder abdrucken möchten, besuchen Sie bitte die MSNBC Reprint Requests Seite.
+
+Zur Nutzung von Microsoft-Pressematerialien kontaktieren Sie uns bitte und geben Sie genau an, welche Inhalte sie nutzen wollen und welche Nutzung Sie planen.
+
+Zum Seitenanfang
+Downgrade eines Microsoft-Einzelhandelprodukts
+Bitte besuchen Sie die Volume Licensing Seite, um zu ermitteln, ob Sie über Downgrade-Rechte für Ihr Produkt verfügen. Wenn Microsoft das Downgraden Ihres Produkts nicht gestattet, besuchen Sie bitte das Produkt-Supportcenter, das Informationen für viele Microsoft-Produkte bereitstellt, einschließlich Informationen zu allgemeinen Problemen und den Richtlinien von Microsoft zur Rückgabe eines Produkts.
+
+Zum Seitenanfang
+Schulberichte und Schulprojekte
+Sie sind berechtigt, Bilder oder Inhalte von Microsoft-Produkten und –Diensten in Schulberichten zu verwenden, vorausgesetzt, Sie halten die vorstehenden Richtlinien ein. Sie können das Produkt oder den Dienst kritisieren oder kommentieren.
+
+Zum Seitenanfang
+Screenshots (Bildschirmkopien)
+Sie sind nicht berechtigt, Screenshots von Boot-Up Screens, Opening Screens oder "Splash Screens" von Microsoft-Produkten oder Screens von Beta-Release-Produkten oder von anderen Produkten, die nicht kommerziell freigegeben wurden, zu verwenden. Andere Screenshots können Sie in der Werbung, in Dokumentationen (einschließlich Ausbildungsbroschüren), in Anleitungen, Videos oder auf Webseiten verwenden, vorausgesetzt, Sie erfüllen zusätzlich zu den obigen Voraussetzungen auch die folgenden:
+
+Sie dürfen den Screenshot nicht verändern mit Ausnahme einer Änderung seiner Größe.
+Sie dürfen nicht Teile des Screenshots verwenden.
+Sie dürfen keine Screenshots in Ihre Produktnutzerschnittstelle aufnehmen.
+Sie dürfen keine Screenshots verwenden, die Inhalte von Dritten enthalten.
+Sie dürfen keine Screenshots verwenden, die ein Bild einer identifizierbaren Einzelperson enthalten.
+Zum Seitenanfang
+Tabellen, Datenbanken und PowerPoint-Präsentationen
+Sie sind berechtigt, eine Tabelle, Datenbank oder PowerPoint-Präsentationen, die Sie mit Hilfe von Microsoft-Software erstellt haben, zu verkaufen. Die Tabelle, Datenbank oder PowerPoint-Präsentation muss unter Verwendung von rechtmäßiger lizenzierter Microsoft-Software erstellt worden sein.
+
+Zum Seitenanfang
+Verwendung des Namens und/oder eines Bilds von Bill Gates
+Name und Bild von Bill Gates sind durch Persönlichkeitsrechte und aus Gründen seiner besonderen Bekanntheit geschützt. Falls Sie Fotografien von Bill Gates zu journalistischen Zwecken nutzen möchten, wenden Sie sich bitte an den jeweiligen Fotografen des Bildes oder an Waggener Edstrom unter der Telefonnummer +1 (503) 443-7070. Eine andere Nutzung ist nicht gestattet.
+-------------------------------------------------------------------------------------------------------------------
+Website: http://unity3d.com
+Terms of Use for:
+Software: Unity Version 5.0.1f1 Personal
+
+UNITY PRO AND UNITY PERSONAL SOFTWARE LICENSE AGREEMENT 5.X
+Last updated: March 2, 2015
+
+SUMMARY OF IMPORTANT USE RESTRICTIONS
+
+Please Read the Entire Agreement and Definitions Below
+
+Scope of License
+
+This Software License Agreement governs your use of the Software. Depending upon your requirements and circumstances, you will be permitted to use either Unity Pro or Unity Personal (formerly known as Unity Free). This Software License Agreement governs use of both Unity Pro and Unity Personal.
+
+Primary Differences Between Unity Pro and Unity Personal
+
+Although Unity Personal has most of the features and functionality that Unity Pro has, Unity Personal: (a) includes certain features that cannot be disabled when your application is launched, including a Unity branded startup screen and certain analytics data collection; (b) does not provide team collaboration functionality; and (c) users will be required to complete a user survey to activate the Software. Unity Pro users who are not eligible to use Unity Personal may not develop and publish Licensee Content for the iOS and Android platforms without purchasing the applicable Unity Pro Add-On Product license. Unity may monitor your compliance with and enforce these restrictions and requirements including but not limited to monitoring the number of downloads of your Licensee Content and any available revenue estimate data.
+
+Which Version You Can Use - Unity Personal Revenue Restrictions
+
+Unity Personal (including the iOS and Android platform deployment options) may not be used by:
+
+a Commercial Entity that has either: (a) reached annual gross revenues in excess of US$100,000, or (b) raised funds (including but not limited to crowdfunding) in excess of US$100,000, in each case during the most recently completed fiscal year;
+a Non-Commercial Entity with a total annual budget in excess of US$100,000 (for the entire Non-Commercial Entity (not just a department)) for the most recently completed fiscal year; or
+an individual (not acting on behalf of a Legal Entity) or a Sole Proprietor that has reached annual gross revenues in excess of US$100,000 from its use of the Software during the most recently completed fiscal year, which does not include any income earned by that individual which is unrelated to its use of the Software.
+You May Not Use Unity Personal with Unity Pro or any Unity Pro Add-On Products
+
+You may not combine or integrate Licensee Content that you develop with Unity Personal simultaneously with any Licensee Content that you develop with Unity Pro or any Unity Pro Add-On Products. Licensee Content developed with Unity Personal will be tagged with an identifier that is used to enforce this restriction.
+
+One User Per License
+
+A specific license key is required for each individual using any version of the Software. Unity Pro users may install the Software on both a primary and a secondary computer for use only by the same user. You may not use both installations simultaneously. If you purchase a standard, single license key educational license, you must purchase a license for each computer on which the Software is to be used.
+
+Unity Console Add-on Developer Requirements
+
+Use of the Software with certain console platforms is subject to the Unity Console Add-on Developer Requirements as set forth on the Unity website. The license keys to enable certain Unity Console Add-ons may be distributed by the console manufacturer.
+
+Streaming and Cloud Gaming Restrictions
+
+You may not directly or indirectly distribute interactive Licensee Content by means of streaming or broadcasting where Licensee Content is primarily executed on a server and transmitted as a video stream or via low level graphics render commands over the open Internet to end user devices without a separate license from Unity. This restriction does not prevent end users from remotely accessing Licensee Content from an end user device that is running on another end user device.
+
+Embedded Software Restriction
+
+You may not directly or indirectly distribute Licensee Content installed on more than 1,000 electronic devices or systems if such Licensee Content provides the user interface or primary functionality of such electronic device or system without a separate license from Unity. This restriction does not prevent you from distributing Licensee Content pre-installed on personal computers and consumer electronic devices such as mobile phones, tablets, televisions or set top boxes as long as such Licensee Content does not provide the user interface or primary functionality of such device.
+
+Gambling Restrictions
+
+You may not distribute or publish any Licensee Content in connection with any Gambling Activities without a separate license from Unity.
+
+UNITY SOFTWARE LICENSE AGREEMENT 5.X
+
+Acceptance and Legal Entity Representations
+
+PLEASE READ THE FOLLOWING TERMS AND CONDITIONS CAREFULLY BEFORE DOWNLOADING, INSTALLING OR USING THE SOFTWARE. THE TERMS AND CONDITIONS OF THIS SOFTWARE LICENSE AGREEMENT (“AGREEMENT”) GOVERN USE OF THE SOFTWARE UNLESS YOU AND UNITY TECHNOLOGIES APS (“UNITY”) HAVE EXECUTED A SEPARATE AGREEMENT GOVERNING USE OF THE SOFTWARE.
+
+Unity is willing to license the Software to you only upon the condition that you accept all the terms contained in this Agreement. By checking the box with links to this Agreement, clicking “accept” or by downloading, installing or using the Software, you are agreeing that you understand this Agreement and accept all of its terms. If you are accepting the terms of this Agreement on behalf of a Legal Entity, you represent and warrant that you have the authority to bind that Legal Entity to the terms of this Agreement, and, in such event, “you” and “your” will refer to that Legal Entity. If you do not accept all the terms of this Agreement, then Unity is unwilling to license the Software to you, and you must destroy all copies of the Software in your possession or control.
+
+If you are accepting the terms of this Agreement for use of Unity Personal, you represent and warrant that:
+
+if you are accepting the terms on behalf of a Legal Entity which is a Commercial Entity, both (a) its annual gross revenues do not exceed US$100,000, or (b) raised funds (including but not limited to crowdfunding) do not exceed US$100,000, in each case during the most recently completed fiscal year and in any equivalent currency;
+if you are accepting the terms on behalf of a Legal Entity which is a Non-Commercial Entity, the total annual budget does not exceed US$100,000 (for the entire Non-Commercial Entity (not just a department)) for the most recently completed fiscal year (including in any equivalent currency); and
+if you are an individual (not acting within a role in a Legal Entity) or if you are accepting the term on behalf of a Legal Entity as a Sole Proprietor, the annual gross revenues from your or its use of the Software do not exceed of US$100,000 during the most recently completed fiscal year (including in any equivalent currency), which does not include any income made which is not related to its use of the Software.
+During the term of this Agreement, you expressly acknowledge and agree that if you are a Unity Personal user and the above thresholds are exceeded, then you may no longer use Unity Personal, and you must either purchase Unity Pro or destroy all copies of Unity Personal in your possession or control and cease distribution of any Licensee Content created with the Software. Unity will monitor your compliance with and enforce these restrictions and requirements including but not limited to monitoring the number of downloads of your Licensee Content and any available revenue estimate data.
+
+Unity Personal users will be required to complete a user survey in order to activate the Software.
+
+If you are using Unity Pro, are not eligible to use Unity Personal and want to develop and publish content for the iOS and Android platforms, you must purchase the applicable Unity Pro Add-On Products to undertake the same.
+
+1. Grant of License.
+
+Use Rights. Conditioned upon your compliance with the terms and conditions of this Agreement and payment of all applicable fees, Unity grants you a non-exclusive, non-transferable license: (a) to install and execute the executable form of the Software, solely for internal use by a single person to develop Licensee Content during the applicable license term; and (b) if you have licensed a version of the Software other than a trial or educational version, to distribute the runtime portion of the Software, on a royalty-free basis, solely as embedded or incorporated into Licensee Content and solely to third parties to whom you license or sell Licensee Content pursuant to an agreement that is no less protective of Unity and its licensors as this Agreement. You may not sublicense the rights granted under clause 1(1)(a), but you may sublicense the rights granted under 1(1)(b) solely to third parties to whom you license or sell Licensee Content to act as distributors thereof pursuant to an agreement no less protective of Unity and its licensors as this Agreement.
+Copies of Unity Products. Unity Pro users may install the Software on both a primary computer and a secondary computer, solely for your convenience, but only for use by a single person. You may make a single copy of the Software solely for backup or archival purposes. For the sake of clarity, you may only use one installation at any given time. We may in our sole discretion authorize you to install the Software on an additional computer or computers upon deactivation of the Software installed on existing computers.
+Educational Product Restrictions. If you are using an educational version of the Software, your license to use the Software and distribute the runtime portion of the Software in your Licensee Content is limited to educational, non-commercial purposes.
+Trial Product Restrictions. If you are using a trial version of the Software, you may install the Software on a single computer only and you may not publish or distribute any Licensee Content.
+Unity Console Add-on Developer Requirements. Use of the Software with certain console platforms is subject to the Unity Console Add-on Developer Requirements as set forth on the Unity website. The license keys to enable certain Unity Console Add-ons may be distributed by the console manufacturer.
+2. Restrictions.
+
+Unity Personal Restrictions. You acknowledge and agree that as an express condition to the license rights granted under Section 1, you are not permitted to combine or integrate in any manner any Licensee Content developed with Unity Personal with any Licensee Content developed simultaneously with Unity Pro. For the avoidance of doubt: (a) if you are a permitted user of Unity Personal, you may commence a project using only Unity Personal and subsequently upgrade all (but not less than all) of your licenses to Unity Pro and the applicable Unity Pro Add-On Products, and (b) any user of the Software may use content licensed from third parties regardless of the version of the Software that was used to develop such third party content. You acknowledge and agree that Unity may tag Licensee Content created with Unity Personal with an identifier to prevent such a prohibited combination of Licensee Content.
+Embedded Software Restriction. You may not directly or indirectly distribute Licensee Content installed on more than 1,000 electronic devices or systems if such Licensee Content provides the user interface or primary functionality of such electronic device or system without a separate license from Unity. This restriction does not prevent you from distributing Licensee Content pre-installed on personal computers and consumer electronic devices such as mobile phones, tablets, televisions or set top boxes as long as such Licensee Content does not provide the user interface or primary functionality of such device.
+Streaming and Cloud Gaming Restriction. You may not directly or indirectly distribute interactive Licensee Content by means of streaming or broadcasting such Licensee Content that is primarily executed on a server and transmitted over the Internet or other network to end user devices without a separate license from Unity. This restriction does not prevent end users from remotely accessing Licensee Content from an end user device that is running on another end user device.
+Gambling Restriction. You may not distribute or publish any Licensee Content in connection with any Gambling Activities without a separate license agreement from Unity.
+General Restrictions. Except as expressly specified in this Agreement, you may not: (a) copy (except in the course of loading or installing) or modify or create derivative works of the Software; (b) distribute, transfer, sublicense, lease, lend, rent or otherwise provide access to the Software to any third party; (c) make the functionality of the Software available to multiple users or third parties through any means, including but not limited to by uploading the Software to a network or file-sharing service or through any hosting, application services provider, service bureau, software-as-a-service (SaaS) or any other type of services; (d) use the Software to develop a competing product; or (e) do anything that could cause or result in the Software (including the runtime portion thereof) being subject to any open source license (or similar license) that requires as a condition of use, modification or distribution that the Software (including the runtime portion thereof) or other software combined or distributed with the Software be: (i) disclosed or distributed in source code form; (ii) licensed for the purpose of making derivative works; or (iii) redistributable at no charge. You acknowledge and agree that portions of the Software, including but not limited to the source code and the specific design and structure of individual modules or programs, are confidential and constitute or contain trade secrets of Unity and its licensors. Accordingly, you agree not to disassemble, decompile or reverse engineer the Software, in whole or in part, or permit or authorize a third party to do so, except to the extent such activities are expressly permitted by law notwithstanding this prohibition.
+3. Ownership.
+
+The Software is licensed, not sold. Unity and/or its licensors retain ownership of the Software including all intellectual property rights therein. The Software is protected by copyright law and international treaties. Unity reserves all rights in the Software not expressly granted to you in this Agreement. You will not delete or in any manner alter any Unity or third-party copyright, trademark or other proprietary rights notices or markings appearing on or in the Software (including the runtime portion thereof).
+
+4. Fees and Taxes.
+
+You agree to pay all amounts due for the Software as set forth in the applicable Unity online store cart, quote and/or invoice. All license purchases are subject to the purchases, billing information and other terms set forth in the Unity Terms of Use. If you purchase a subscription license, you also agree to the subscription terms set forth on the Unity online store. Unity may offer other services in conjunction with Software and such services shall be subject to the applicable terms of service and fees. All fees payable under this Agreement are net amounts and are payable in full, without deduction for taxes or duties of any kind. You will be responsible for, and will promptly pay, all taxes and duties of any kind (including but not limited to sales, use and withholding taxes) associated with this Agreement or your receipt or use of the Software, except for taxes based on Unity’s net income. In the event that Unity is required to collect any tax for which you are responsible, you will pay such tax directly to Unity. If you pay any withholding taxes that are required to be paid under applicable law, you will promptly furnish Unity with written documentation of all such tax payments, including receipts.
+
+5. Consent to Data Collection, Privacy Policy Obligations and Verification.
+
+You acknowledge and accept Unity's privacy policy. You agree that the Software (including the Unity runtime in your Licensee Content) may send data to Unity to: (a) check for Software updates; (b) provide aggregated usage statistics of your use of the Software and the use of your Licensee Content by end users; (c) provide analytics and advertising services; and (d) validate license keys in order to prevent unauthorized use. You acknowledge and agree that Unity may deliver messages and contact you about the Software and other Unity product and service offerings.
+You agree to distribute Licensee Content with a privacy policy explaining the data you collect through the Licensee Content and how you collect, use, share, and protect it; and to include a disclosure that Unity is your service provider and collects certain data from your Licensee Content, along with a link to Unity's privacy policy, which may be updated from time to time.
+To ensure compliance with this Agreement, you agree that within thirty (30) days from the date of Unity or its authorized representative’s request, you shall provide all pertinent records and information requested in order to verify that your installation and use of any and all Software is in compliance with this Agreement along with a signed verification that all such information is complete and correct. Furthermore, if you are a Legal Entity, Unity or its authorized representatives may upon reasonable prior notice access and inspect your facilities and computer systems to review and verify your compliance with this Agreement. Any such inspection shall be conducted during regular business hours at your facilities or electronically via remote access. In the event you have impermissibly used Unity Personal (or other products) or have not paid the applicable fees for all Software you have deployed or used, you agree to promptly pay for such Software and the reasonable inspection costs.
+6. Support.
+
+You may access the online forums and the Unity Answers knowledge base on the Unity web site. You may also email support@unity3d.com for assistance with license keys. Technical support may be offered by Unity at its sole discretion as described on the Unity website. You acknowledge and agree that Unity has no obligation under this Agreement to provide patches, updates, new releases or new versions of the Software.
+
+7. Term.
+
+If you have licensed a trial version of the Software, the license granted under this Agreement will remain in effect for a period of 30 days, unless earlier terminated in accordance with this Agreement. For paid in full, perpetual licenses, the license granted under this Agreement will remain in effect unless earlier terminated in accordance with this Agreement. For subscription based licenses, the license granted under this Agreement is for the initial subscription period, and thereafter such license will automatically renew on a month to month basis unless you renew the subscription for a new subscription term or terminate and cancel the license as described on the Unity web site at the time of license purchase. Unity may cease offering perpetual licenses and/or updates and new versions for such perpetual licenses and may modify or terminate subscription or other Software license or service offerings at any time. The license granted under this Agreement will automatically terminate, with or without notice from Unity, if you breach any term of this Agreement or fail to pay all fees due for the license. Upon termination, you must at Unity’s option either promptly delete and destroy or return to Unity all copies of the Software in your possession or control. Unity may also disable the Software you have licensed upon expiration of a subscription term license or in the event you breach this Agreement.
+
+8. No Warranty.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND. UNITY AND ITS LICENSORS DISCLAIM ALL WARRANTIES AND CONDITIONS, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT, AND ANY WARRANTIES AND CONDITIONS ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED FROM UNITY OR ELSEWHERE WILL CREATE ANY WARRANTY OR CONDITION NOT EXPRESSLY STATED IN THIS AGREEMENT.
+
+9. Indemnity.
+
+To the maximum extent permitted by law, you agree to indemnify, defend and hold harmless Unity and its affiliates against any and all claims, actions, suits or proceedings, as well as any and all losses, liabilities, damages, costs and expenses, including, without limitation, reasonable legal fees, arising out of or accruing from your Licensee Content or your violation of this Agreement.
+
+10. Limitation of Liability.
+
+UNITY AND ITS LICENSORS’ TOTAL LIABILITY TO YOU FROM ALL CAUSES OF ACTION AND UNDER ALL THEORIES OF LIABILITY WILL BE LIMITED TO THE GREATER OF THE AMOUNTS PAID BY YOU FOR THE SOFTWARE OR ONE HUNDRED U.S. DOLLARS (US$100). IN NO EVENT WILL UNITY OR ITS LICENSORS BE LIABLE TO YOU FOR ANY SPECIAL, INCIDENTAL, EXEMPLARY, PUNITIVE OR CONSEQUENTIAL DAMAGES (INCLUDING LOSS OF DATA, BUSINESS, PROFITS OR ABILITY TO EXECUTE) OR FOR THE COST OF PROCURING SUBSTITUTE PRODUCTS ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE EXECUTION OR PERFORMANCE OF THE SOFTWARE, WHETHER SUCH LIABILITY ARISES FROM ANY CLAIM BASED UPON CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHERWISE, AND WHETHER OR NOT UNITY OR ITS LICENSORS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS OR DAMAGE. THE FOREGOING LIMITATIONS WILL SURVIVE AND APPLY EVEN IF ANY LIMITED REMEDY SPECIFIED IN THIS AGREEMENT IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.
+
+11. U.S. Government Rights.
+
+The Software and computer software documentation (“Documentation”) are “commercial items” as that term is defined in the Federal Acquisition Regulation (“FAR”) 2.101, consisting of “commercial computer software” and “commercial computer software documentation,” respectively, as such terms are used in FAR 12.212 and DFARS 227.7202.If acquired by or on behalf of a civilian agency, the U.S. Government acquires or will acquire the Software and/or Documentation and other technical data subject to the terms of this Agreement as required in 48 C.F.R. 12.212 (Computer Software) and 12.211 (Technical Data) of the FAR and its successors. If acquired by or on behalf of any agency within the Department of Defense (“DOD”), the U.S. Government acquires or will acquire the Software and/or Documentation subject to the terms of this Agreement as specified in 48 C.F.R. 227.7202-3 of the DOD FAR Supplement (“DFARS”) and its successors. This U.S. Government Rights clause is in lieu of, and supersedes, any other FAR, DFARS, or other clause or provision that addresses Government rights in computer software or technical data.
+
+12. Export Law.
+
+You agree to comply fully with all export laws and regulations to ensure that neither the Software nor any technical data related thereto nor any direct product thereof are exported or re-exported directly or indirectly in violation of, or used for any purposes prohibited by, such laws and regulations.
+
+13. Choice of Law and Dispute Resolution.
+
+Choice of Law. This Agreement will be governed by and construed in accordance with the laws of Denmark, without regard to or application of conflict of laws rules or principles. The United Nations Convention on Contracts for the International Sale of Goods will not apply.
+Arbitration of Disputes. Except as set forth below in Section 13(5), any dispute arising out of or in connection with this Agreement, including any disputes regarding the existence, validity or termination thereof, shall be settled by arbitration.
+Arbitration Rules. The parties agree to arbitrate all disputes by simplified arbitration arranged by The Danish Institute of Arbitration in accordance with the rules of simplified arbitration procedure adopted by The Danish Institute of Arbitration and in force at the time when such proceedings are commenced.
+Class Action Waiver. The parties further agree that any arbitration shall be conducted in their individual capacities only and not as a class action or other representative action, and the parties expressly waive their right to file a class action or seek relief on a class basis. YOU AND UNITY AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. If any court or arbitrator determines that the class action waiver set forth in this paragraph is void or unenforceable for any reason or that an arbitration can proceed on a class basis, then the arbitration provision set forth above shall be deemed null and void in its entirety and the parties shall be deemed to have not agreed to arbitrate disputes.
+Arbitration Exceptions. Notwithstanding the parties’ agreement to resolve all disputes through arbitration, either party may bring an action in court: (a) to seek injunctive relief or to enforce its intellectual property rights (“intellectual property rights” means patents, copyrights, moral rights, trademarks, and trade secrets, but not privacy or publicity rights), including without limitation to seek injunctive relief; or (b) in cases that do not involve intellectual property rights, to seek temporary, preliminary or other expedited or provisional injunctive relief (but not money damages). If you reside (or your principal place of business is) within the United States and the parties have an intellectual property rights dispute, you and Unity agree to submit to the personal and exclusive jurisdiction of and venue the state and federal courts located in San Francisco County, California. If you reside (or your principal place of business is) outside of the United States and the parties have an intellectual property rights dispute, you and Unity agree to submit to the personal and exclusive jurisdiction of and venue the courts located in Copenhagen, Denmark. The parties agree to accept service of process by mail, and hereby waive any and all jurisdictional and venue defenses otherwise available.
+14. General.
+
+This Agreement is the complete and exclusive understanding and agreement between the parties regarding its subject matter, and supersedes all proposals, understandings or communications between the parties, oral or written, regarding its subject matter, unless you and Unity have executed a separate agreement governing use of the Software. The English language version of this Agreement is legally binding in case of any inconsistencies between the English version and any translations. Any terms or conditions contained in your purchase order or other ordering document that are inconsistent with or in addition to the terms and conditions of this Agreement are hereby rejected by Unity and will be deemed null. You may not assign or transfer this Agreement or any rights granted hereunder, by operation of law or otherwise, without Unity’s prior written consent, and any attempt by you to do so, without such consent, will be void. Without limiting the generality of the foregoing, if you are an employee of a Legal Entity, you may not assign or transfer this Agreement or any rights granted hereunder to your employer without Unity’s prior written consent, and any attempt by you to do so, without such consent, will be void. Except as expressly set forth in this Agreement, the exercise by either party of any of its remedies under this Agreement will be without prejudice to its other remedies under this Agreement or otherwise. All notices or approvals required or permitted under this Agreement will be in writing and delivered by confirmed facsimile transmission, by overnight delivery service, or by certified mail, and in each instance will be deemed given upon receipt. All notices or approvals will be sent to the addresses set forth in the applicable ordering document or invoice or to such other address as may be specified by either party to the other in accordance with this section. The failure by either party to enforce any provision of this Agreement will not constitute a waiver of future enforcement of that or any other provision. Any waiver, modification or amendment of any provision of this Agreement will be effective only if in writing and signed by authorized representatives of both parties. If any provision of this Agreement is held to be unenforceable or invalid that provision will be enforced to the maximum extent possible and the other provisions will remain in full force and effect.
+
+15. Definitions.
+
+“Commercial Entity” means any company, corporation, limited liability company, general partnership, limited partnership, limited liability partnership, proprietorship, joint venture or other form of business organization, excluding any government, non-profit, educational or academic institution.
+
+“Gambling Activities” means any gambling product or service offered in any market or application that is regulated by any local, state or national authority and requires a gambling license.
+
+“Legal Entity” means any Commercial Entity, Non-Commercial Entity or Sole Proprietor.
+
+“Licensee Content” means games, applications, software or other content that you develop with the Software.
+
+“Non-Commercial Entity” means any government, non-profit, educational or academic institution, including but not limited to any primary or secondary school, vocational school, college or university.
+
+“Software” means all 5.x versions and updates of all the Unity software products identified on Unity’s website.
+
+“Sole Proprietor” means any Commercial Entity that is owned or controlled by a single individual, with no other partners or employees.
+
+“Unity Personal” means the version of the Software that is available for free to Sole Proprietors, Commercial Entities with annual gross revenues (based on prior fiscal year) of less than US$100,000, and Non-Commercial Entities with a total annual budget (based on prior fiscal year) for the legal entire entity (not department) of less than US$100,000.
+
+“Unity Console Add-on Developer Requirements” means the applicable registration process and terms a developer must follow and accept to become a registered developer with the applicable console platform as set forth or linked on the Unity website.
+
+“Unity Pro” means the premium version of the Software available to commercial entities not eligible to use Unity Personal.
+
+“Unity Pro Add-On Products” means the versions of the add-on Software products identified on Unity’s website that are licensed for an additional license fee such as those for the iOS and Android platforms available to entities not eligible to use Unity Personal.
+-----------------------------------------------------------------------------------------------------------------
+Website: https://freemusicarchive.org
+Terms of use for: Mp3-File: Mbius_-_05_-_Space_Tuna
+
+Introduction
+
+a. Please read the following Terms of Use (“Terms of Use,” “Terms,” or “Agreement”) carefully.  By accessing or using any of the pages or content located on www.freemusicarchive.org (the “Site”), you (“you” or “User”) indicate that you understand and agree to the Terms of Use. 
+
+b. The Terms of Use include all other Site policies, such as the Privacy Policy, which may be found on separate pages on the Site.  A list of links to our Site policies can be found here.  By agreeing to the Terms of Use, you indicate that you understand and agree to all Site policies.
+
+About the Site
+
+a. The Free Music Archive (the “Free Music Archive,” “FMA,” “we,” “us,” or “our”) is an online library of audio and video content that the public, including music fans, webcasters, and podcasters, may listen to, download, or stream for free. The Free Music Archive is a project of Auricle Communications, whose mission is to distribute multimedia content for free over the radio or the Internet. The FMA includes content from WFMU and other curators of audio and visual media, including non-commercial radio stations and individuals.
+
+b. Content on the Site (“Content”) includes, but is not limited to, written comments, descriptions, reviews, ratings, audio and/or video files, images, scripts, and designs. Content includes, but is not limited to, Member-Generated Content and Site Content (as those terms are defined below) and Curator Content (as that term is defined in the Curator and Uploading Policy.
+
+c. Users include but are not limited to persons who visit the Site or access its Content in any manner, persons who contribute, post, and upload Content of any kind to the Site, and persons who maintain, moderate, or edit Content.
+ 
+Categories of Use. This Agreement addresses five main categories of use.
+
+a. First, the Free Music Archive allows you to listen to, download, and search for audio and/or video files hosted on the Site. You may incorporate some of the audio and/or video files into podcasts, webcasts, and other multimedia works, subject to the specific licensing terms that govern each audio and/or video file as explained in and linked from Section [11] below.
+
+b. Second, as a registered member (a “Member”), you may post written comments, flag comments, rate songs and albums, and create playlists of audio and/or video files hosted on the Site (“Member-Generated Content,” described and defined more fully in Section [8] below). A Member who wishes to become an editor with the privileges of writing reviews, editing song/album/artist information, and accessing and sorting flagged comments (an “Editor”), must obtain the approval of the relevant Curator (as defined below below).
+
+c. Third, a Curator (“Curator”) or Contributor (“Contributor”) may upload or delete content such as audio and/or video files, written descriptions, and images of album covers to or from their portals on the Site and may submit content to the Free Music Archive blog (“Curator Content”). Within their portals, Curators may maintain artist pages, moderate and delete User postings, control User options such as images and designs, ban Members, and manage and approve Contributors, Contributing Artists, and Editors. We approve Curators at our sole discretion.
+
+d. Fourth, a contributing artist (“Contributing Artist”) may upload to the Site any audio and/or video files in which the Contributing Artist owns all necessary rights (including but not limited to rights in sound recordings and musical compositions embodied in such audio and/or video files). The Contributing Artist must receive an invitation from a Curator to establish a Contributing Artist account, after which the Contributing Artist may upload content to the Contributing Artist’s page, within the Curator’s portal.
+ 
+Eligibility
+
+a. To use the Free Music Archive, you must be at least thirteen (13) years old and must either be able to form legally binding contracts in your jurisdiction or have legal parental or guardian consent to enter into, agree to, and abide by these Terms of Use.
+ 
+Member Accounts, Passwords, and Security
+ 
+a. You may register for a Member account provided that you are eligible to use the Site and provided that you agree to the Terms of Use.
+
+b. You are responsible for maintaining the security of your password and account. You are responsible for all activities that occur under your account. The Free Music Archive is not responsible for any harms arising out of the unauthorized or improper use of your account or password. 
+
+c. The Free Music Archive reserves the right to restrict or delete your account or restrict your access to the Site, at our sole discretion and without notice or liability.
+ 
+Restrictions on Use. The Free Music Archive strives to be a clean, safe, friendly, and legal site. In visiting, accessing, or using the Site, you agree to abide by the following rules of conduct. 
+
+a. You will not falsely assume the identities of other Users or other rights-holders (such as artists or composers) on the Site.
+
+b. You will not harass, threaten, or defraud other Users or rights-holders online or offline. You will not transmit content that is illegal, defamatory, libelous, obscene, pornographic, threatening, invasive of privacy, injurious, or that may otherwise infringe on the ability of other Users to enjoy the Site. You will not post inflammatory content with the sole intention of provoking other Users.
+
+c. You will not post spam, junk mail, or chain letters on the Site. You will not post advertisements on the comment boards of other Users’ profiles.
+
+d. You will not provide direct links (deep links) on other websites to specific audio and/or video files (such as mp3 files) that are hosted on the Free Music Archive.
+
+e. You will not attack the Site with automated requests or attempt to data mine the Site. You will not attempt to gain unauthorized access to the Site or other User accounts by hacking, password mining, or other means. You will not attempt to compromise the Site’s integrity in any way.
+
+f. Any content that you upload or contribute to the Site and any behavior in relation to the Site shall not compromise the security or functionality of the Site or of other computers. You will not post malicious files or files that will install any software or scripts on a User’s computer without the User’s consent and full knowledge.
+
+g. You will not use the Site or Content hosted on the Site in any way that violates the Terms of Use.
+ 
+Downloading Policy
+
+a. The page for each song or album available via the Site will indicate the type of license that applies to that song, album, or other audio and/or video file. You are responsible for reviewing and understanding the license. Relevant license provisions are linked from the page of each audio and/or video file or album, and licenses are also explained in or linked from Section [11] of the Terms of Use.
+
+b. You agree to comply with all license provisions relating to Content that you download or access from the Free Music Archive.
+ 
+Posting Reviews, Comments, and Playlists
+
+a. Member-Generated Content includes Members’ written comments, ratings, descriptions, and playlists, which Members may post on the Site.
+
+b. As a Member posting Member-Generated Content: 
+
+  i. You agree that your avatar and Member name may be displayed next to any Member-Generated Content that you post.
+
+  ii. You agree that you own or control all necessary rights in and to comments that you post on the Site and that you are not infringing other people’s rights by posting such comments on the Site.
+
+c. Licensing
+
+  i. As a Member, you agree that all Users of the Site may access, quote, or reproduce your Member-Generated Content in connection with their use of the Site. For all other uses beyond the Site, you agree that all Member-Generated Content that you post or upload to the Site will be subject to the Creative Commons Attribution-Noncommercial-Share Alike 3.0 License, unless otherwise noted.
+
+d. Members may flag any or all comments that they consider inappropriate. Flagged comments may be monitored by Editors and may be removed by Curators at their discretion. The Free Music Archive reserves the right to remove any comments that violate the Terms of Use.
+
+e. The Free Music Archive may display summaries of Members’ ratings of songs and albums, their favorites, and tracks that they have listened to. These summaries and Member-Generated Content are viewable to the public and may remain available to the public for an indefinite period of time at the discretion of the relevant Curator, Editor, or the Free Music Archive.
+ 
+User Conduct
+
+a. The Free Music Archive encourages all Users to be courteous and respectful in their communications on the Site. Still, Content found on the Site may represent a wide range of views and may be inaccurate, offensive, or inappropriate to different people. The Free Music Archive neither endorses nor takes responsibility for content generated by Users. The Free Music Archive will not be liable for monitoring such content.
+
+b. The Free Music Archive reserves the right to delete, disable, or remove any content that we consider inappropriate or violates this Agreement, at our sole discretion, without notice or liability.
+ 
+Site Content
+
+a. Definition. Site Content (“Site Content”) refers to any text, images, trademarks, service marks, logos, graphics, page layouts, or other material or content that is created, uploaded, owned, or maintained directly by the owners or administrators of the Free Music Archive. Site Content includes, but is not limited to “Free Music Archive,” www.freemusicarchive.org, and other service marks, logos, and graphics representing the Site.
+
+b. Intellectual Property. All Site Content is the property of the Free Music Archive and is protected by copyright, trademark, and other intellectual property laws. Unless otherwise noted, all Site Content is licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 license.
+
+c. Links to the Site. You may create a hyperlink to the Site as long as the link does not portray the Free Music Archive and its affiliates in a false, misleading, or offensive manner.
+
+d. Links to Independent Websites. The Free Music Archive pages may display links to independent, third-party websites (“Third Party Sites”). We neither control nor endorse Third Party Sites. You agree that we are not responsible for the content of Third Party Sites, or for any harm that arises from or relates to Third Party Sites.
+ 
+License Provisions
+
+a. All audio and video files available for download from the Free Music Archive are subject to one of the following license categories: (1) Creative Commons; (2) Public Domain (United States); or (3) a customized license. The particular license that is applicable to each file will be displayed on the file’s song page. You should follow the links from the song page to make sure that you understand and are complying with the license provisions for each file that you download.
+ 
+Intellectual Property.
+
+a. Copyright. You agree to comply with U.S. copyright laws as well as the laws of your local jurisdiction.
+
+b. Trademarks. All trademarks, logos, or other proprietary information (including images, text, and page layouts) displayed on the Site are protected by U.S. trademark law. You will not frame or use any trademarks, logos, or other proprietary information of rights-holders in any way without their express written consent. You are granted no right or license with respect to these trademarks. Use of such trademarks in any manner that is likely to cause confusion or that disparages or discredits the trademark owner is strictly prohibited.
+
+c. Copyright Infringement and Notification Policy. If you believe that your copyrighted works have been used in a way that constitutes copyright infringement, please follow the procedures in our Digital Millennium Copyright Act Policy in Section [13] below.
+ 
+Digital Millennium Copyright Act Policy: Notice and Takedown Procedures.
+
+a. The Free Music Archive will act in accordance with Title 17, U.S.C., Section 512(c) of the Digital Millennium Copyright Act (“DMCA”) regarding copyright infringement.
+
+b. Infringement Notification. 
+
+   i. The Free Music Archive’s Designated Agent to receive notification of alleged infringement is: complaints@freemusicarchive.org
+
+  ii. If you are a copyright owner and believe that your copyrighted works have been used in a way that constitutes copyright infringement, you may send a written notification (preferably by email) to the Free Music Archive’s Designated Agent listed above. Please identify the copyrighted work(s) and include your name, address, phone number, email address, and your physical or electronic signature. Also state that (1) you are the copyright owner or authorized to act on behalf of the copyright owner; and (2) you have a good faith belief that the use of the work is not authorized by the copyright owner, its agent, or the law.
+
+  iii. We will respond to clear and valid notices of alleged infringement by removing or disabling access to the allegedly infringing content, regardless of whether we are liable for such infringement.
+
+c. Please note that you may be liable for damages (including costs and legal fees) if you materially misrepresent that content is infringing your copyrights. Contact an attorney if you are not sure whether the content is infringing.
+
+d. Counter-notification. 
+
+   i. Pursuant to Section 512(g)(2)(A) of the DMCA, we will take reasonable steps to notify you when we remove or disable the content that you posted that allegedly infringes copyright
+
+  ii. If you are a User who believes your content was mistakenly removed or disabled, you may send our Designated Agent (see above) a counter-notification. In your counter-notification, please identify the work and its location on the Site before it was removed or disabled, and include your name, address, phone number, and your physical or electronic signature. Also state that you have a good faith belief that the content was mistakenly removed or disabled.
+
+e. Repeat Infringers. 
+
+   i. In accordance with Section 512(i)(1)(A) of the DMCA, we will, in appropriate circumstances, disable and/or terminate the accounts of Users who are repeat infringers.
+
+Limitation of Liabilities
+
+a. To the full extent permissible by applicable law, you expressly understand and agree that in no event will the Free Music Archive, its affiliates, directors, agents, and successors be liable to you for any direct, indirect, incidental, special, or consequential damages, including but not limited to loss of profit, LOSS of income, LOSS of business opportunities, loss of goodwill or reputation, or loss of data, regardless of the nature of the claim or the form of action, arising from the Site or Content and services on the Site, whether or not we had any knowledge, actual or constructive, that such damages might be incurred.
+ 
+Disclaimer of Warranties
+
+a. You expressly understand and agree that the Free Music Archive and any materials and content on the Site are provided on an “as is” and “as available” basis, and your use of the Site is at your sole risk. The Free Music Archive makes no representations or warranties of any kind, express or implied, as to the Site’s operation or the information, content, or materials included on this Site. To the fullest extent permissible by applicable law, the Free Music Archive disclaims any and all warranties, express or implied, including but not limited to warranties of merchantability and fitness for any particular purpose. Without limitation, we disclaim any and all warranties regarding the security, reliability, accuracy, timeliness, and performance of the Site, its services, and its functions, as well as any of content and information accessed from the site.
+ 
+Choice of Law and Venue.
+
+a. This Agreement is governed by and construed according to the laws of the State of New Jersey, without regard to the rules of conflict of law that may cause the laws of another jurisdiction to apply. You agree to the sole and exclusive jurisdiction and venue of the federal or state courts of the State of New Jersey in the event of any claims, actions, or disputes arising from or relating to the Free Music Archive, or your use or review of it. This Agreement is the entire agreement between parties with respect to the subject matter hereof and replaces all prior or contemporaneous understandings or agreements regarding such subject matter. If for any reason a court of competent jurisdiction finds any provision of this Agreement to be unenforceable, the remainder of the Agreement will continue in full force and effect
+ 
+Indemnification
+
+a. You expressly understand and agree to indemnify, defend, save, and hold harmless Auricle Communications, WFMU, the Free Music Archive, Users of the FMA, and their respective directors, agents, and successors, from and against any and all liabilities, including but not limited to all costs, expenses, and damages arising out of any breach or alleged breach by you of any of the provisions in the Terms of Use, including but not limited to any claim made by any third-party.
+ 
+Right to Eliminate Access
+
+a. The Free Music Archive reserves the right to eliminate access to the Site to anyone for any reason, including but not limited to violations of the Terms of Use.
+ 
+Severability
+
+a. If any part of the Terms is found unenforceable, the rest of the Terms shall remain enforceable to the maximum extent of the law.
+ 
+Waiver
+
+a. Failure of the Free Music Archive to pursue a violation of a specific provision of the Terms does not imply a waiver of our right to pursue and act on violations of the Terms.
+ 
+Modifications.
+
+a. The Free Music Archive reserves the right to change the Terms of Use at any time, at its sole discretion. You are responsible for regularly reviewing the Terms. Your continued use of the Site constitutes your agreement to all such Terms and changes.
