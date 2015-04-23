@@ -1,0 +1,10 @@
+Im Folgenden Ordnerarchiv finden Sie:
+
+...einmal den Projektordner mit dem kompletten Programm.
+...eine PitchSlide-Präsentation zur Vorstellung des Projekts
+...eine Lizenz.html, in der Sie die Lizenzen für Unity, Visual Studio und einen Musiktitel für die Hintergrund-
+Musik finden
+...readme.txt
+...eine .exe-Datei (Space_War_Moritz_Nebel.exe), die das Spiel ausführt
+...einen Ordner mit dem selben Namen wie die .exe-Datein (Bitte nicht entfernen!)
+...und eine Word und ein .md-Datei mit dem Inhalt der Seminararbeit (Ich empfehle die Word-Datei)
