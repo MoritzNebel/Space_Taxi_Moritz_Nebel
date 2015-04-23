@@ -1,11 +1,13 @@
-Projekt
+#Projekt
 Für das Modul „Praxis im Software Engineering“ sollte ein Spiel als Ergebnis erstellt werden. Das Spiel soll so ähnlich aufgebaut sein, wie das „Space Taxi“. Das Spiel soll unterschiedliche Levels beinhalten, indem eine Spielfigur auf einem Spielfeld von Ort A nach Ort B kommen soll, um in den nächsten Level zu gelangen. Gegnerische Spielobjekte sollen eingebaut werden, die dieses Vorhaben verhindern. Des Weiteren sollen Hindernisse eingebaut werden, die einen Durchgang der Spielobjekte verhindern sollen.
 
 Da zunächst noch keine großen Anforderungen zu dem Spiel genannt wurden, versuchte ich in den ersten Schritten das Spiel webbasiert mit HTML5 und JavaScript zu gestalten. Als uns dann aber mitgeteilt wurde, dass das Spiel auch unter der Spiel-Engine Unity erstellt werden kann, versuchte ich nun das Spiel mit Unity zu erstellen, da es doch recht einfacher erschien als webbasiert. Video-Tutorials und Informationen von der Website: http://docs.unity3d.com/Manual/index.html halfen mir dabei, ein funktionstüchtiges Spiel mit Unity zu entwickeln. Mein Spiel lautet „Spice Driver.“
-Spiel
+
+#Spiel
 Das Spiel Space War enthält 6 verschiedene nacheinander ablaufende Levels, die zu absolvieren sind.  Das Spielobjekt in Form eines rot-weißen Raumschiffes soll pro Level alle gelben Sterne einsammeln, um am Ende den goldenen Stern einzusammeln, um in den nächsten Level zu gelangen. Pro Level gibt es jedoch Hindernisse und Gegnerobjekte, die aber durch Einsammeln der Sterne oder Schießen beseitigt werden können. Zu Beginn besitzt das Spielobjekt 10 Leben. Wenn man ein Leben verliert oder die Zeit abgelaufen ist, beginnt der Level von vorne. Die Zeit ist pro Level unterschiedlich und ein Leben verliert man, wenn ein Gegner das Spielobjekt berührt oder abschießt. Sind alle Leben verspielt worden, beginnt es nochmal bei Level 1 mit 5 Leben. Wenn man alle 6 Levels durchgespielt hat, hat man die Möglichkeit, die jeweiligen Level noch einmal durchspielen. Man kann sich dabei aussuchen, welches der Level man nun spielen möchte. Hier ist die Anzahl der Leben nun ausgeschaltet, da man Space War durchgespielt hat.
-Spielobjekte
-Spielobjekt: PlayerShip
+
+#Spielobjekte
+#Spielobjekt: PlayerShip
 PlayerShip ist das Objekt des Spielers. Es kann sich mit den Pfeiltasten nach vorne und hinten bewegen und nach links und rechts drehen. In Unity wurde die Spielfigur mit einem selbsterstellten Bild aus Paint versehen, welches ein rot-weißes Raumschiff darstellt. Die Position der Figur ist je nach Level variabel. Damit das Spielobjekt per Pfeiltasten bewegbar ist, wurde dem Spielobjekt ein C#-Skript (PlayerMovement.cs) als Komponenten hinzugefügt. Folgender Code ist ausschlaggebend dafür:
 
 public float rotSpeed = 180f;
@@ -152,20 +154,21 @@ Dem Skript wird ein Schussobjekt in Form eines blauen Streifens hinzugefügt habe
 
 Unabhängig vom Spielerobjekt gibt es außerdem ein weiteres Skript, welches dem PlayerShip als Komponente hinzugefügt ist: LoadNextLevel.cs:
 
-public int currentLevel;      
-
 if (PlayerShip.tag == "FinalGoal") 					
 if (GameObject.FindGameObjectsWithTag ("Goal").Length == 0) {				…
 	Application.LoadLevel ("Game2." + (currentLevel + 1));
 	…
-
+			
+			
 Hier wird bei Erreichen des goldenen Sterns der jeweilige nächste Level geladen. Durch public-Deklaration ist es recht einfach, die Zahl des jeweiligen nächsten Levels separat anzugeben. Das Ziel wird erst erreicht wenn alle Objekte mit Tag „Goal“ (alle Sterne) eingesammelt worden sind (if (GameObject.FindGameObjectsWithTag("Goal").Length == 0)).
 
-Spielobjekt: Hindernisse
+#Spielobjekt: Hindernisse
 Ein Hindernis beinhaltet die Komponenten Rigidbody 2D und einen Circle Collider 2D. Der Trigger ist in diesem Fall ausgestellt und „Is Krimentic“ ist eingehackt. Hindernisse sind in Form von roten Wänden dargestellt (mit Paint erstellt), um Schussobjekte abzuwehren und für das Spielerobjekt und die Gegnerobjekte keinen Durchgang zu bieten. Eventuell werden ein oder mehrere Hindernisse entfernt, wenn man bestimmte Sternobjekte einsammelt.
-Spielobjekt: Kamera
+
+#Spielobjekt: Kamera
 Die Kamera zeigt das Spielfeld. Bis auf das Spielerobjekt dürfen sich andere Objekte wie Gegner, Hindernisse und Schussobjekte  aus dem Spielfeld befinden oder rausbewegen. 
-Spielobjekt: Gegner (Enemy)
+
+#Spielobjekt: Gegner (Enemy)
 Gegner sind Spielobjekte, die das Spielobjekt verfolgen und unter Umständen (je nach Level) dieses auch abschießen können. Wie das Spielobjekt besitzt es die Komponenten: Ridigbody 2D und einen Collider 2D mit denselben Einstellungen wie beim Spielerobjekt. Es beinhaltet außerdem als Komponente das Skript EnemyShooting.cs, welches einen ähnlichen Aufbau wie Playershooting.cs hat. Der Unterschied besteht in dem automatisierten Schießen der Gegner ohne Tastendruck (Ein if-Parameter fällt weg). Des Weiteren besitzt es das Skript MoveForward.cs, die die programmatische Fortbewegung der Gegner umsetzt:
 
     public float maxSpeed = 15f;
@@ -213,7 +216,8 @@ if (Enemy.tag == "Bullet")
           	Destroy(gameObject);
        	}
 Durch das Berühren mit einem Schussobjekt, verliert der Spieler das aktuelle Leben und wird aufgrund der zweiten Schleifen letzten Endes zerstört.
-Spielobjekt: Bullet (Schussobjekt)
+
+#Spielobjekt: Bullet (Schussobjekt)
 Ein Schussobjekt wird nach Betätigen der Strg-Taste abgefeuert, wenn es vom Spieler aus abgeschossen wurde. Schüsse vom Gegner werden automatisch abgefeuert. Schussobjekte sehen immer gleich aus: ein blauer Strich. Jedoch gibt es zwei verschiedene  Vorlagen (Prefabs), die mit unterschiedlichen Tags verwiesen wurde. Eine Vorlage für Schüsse des Spielers (Bullet01) und eine Vorlage für Schüsse der Gegner (Bullet02). Dieser Auseinanderhaltung ist deswegen notwendig, da ein Gegner sonst möglicherweise einen anderen Gegner abschießen kann. Genau wie die Gegner besitzt auch ein Schussobjekt das Skript MoveForward.cs als Komponente. Der Unterschied ist aber, dass diese kein FacesPlayer.cs besitzen, die das Spielerobjekt verfolgen könnten. Es besitzt als weitere Komponente neben dem Rigidbody 2D und einem Collider 2D ohne Trigger die Skripte SelfDestruct.cs (für Bullet01) und SelfDestruct2.cs (für Bullet02) als Komponenten:
 
 Selfdestruct2.cs
@@ -228,7 +232,7 @@ if (Bullet2.tag == "Hind")
 
 Ein Hindernis wird zerstört wenn es ein Hindernis, ein Stern oder einen Gegner trifft.
 
-Spielobjekt: Goal (Sterne) 
+#Spielobjekt: Goal (Sterne) 
 Sterne müssen von dem Spielobjekt eingesammelt werden. Sind alle Sterne bzw. Teilziele eingesammelt, kann man bei Berührung mit dem goldenen „Fin“-Stern in den nächsten Level gelangen. Die Anzahl der Sterne variiert pro Level. Für das Zusammentreffen von Spieler und Stern ist folgende Programmierung aus dem als Komponenten angehangenes Skript GoalHandler.cs verantwortlich:
 
     public GameObject soundi;
@@ -264,4 +268,5 @@ Bugliste
 -kein Menü für Sound ein/aus
 -keine Möglichkeit zur Spielunterbrechung
 -keine Zwischenzeit zwischen den Levels
+-erst ab der Skalierung 800 x 600 spielbar
 
